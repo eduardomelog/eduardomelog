@@ -1,4 +1,4 @@
-### Hi, I'm a mexican Data Scientist with few years developing Data Mining and ML models. Let's collaborate together ;) 
+### Hi, I'm a mexican Data Scientist with few years developing Data Mining, Big Data and ML models. Let's collaborate together ;) 
 ### Check out some of my projects below (click on any image to get more info):
 
 [![CarPricePrediction](images/site_example.jpg)](https://github.com/eduardomelog/CarPricePrediction)
