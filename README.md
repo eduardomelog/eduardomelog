@@ -1,4 +1,4 @@
-### Hi, I'm a mexican Data Scientist with few years with Data Mining and ML models. Let's collaborate together ;) Check out some of my projects below. 
+### Hi, I'm a mexican Data Scientist with few years developing with Data Mining and ML models. Let's collaborate together ;) Check out some of my projects below. 
 
 <!--
 **eduardomelog/eduardomelog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
