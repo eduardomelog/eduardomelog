@@ -1,5 +1,5 @@
-### Hi, I'm a mexican Data Scientist with few years developing Data Mining, Big Data and Machine Learning models. Let's collaborate together ;) 
-### Check out some of my projects below (click on any image to get more info):
+### Hi, I am a mexican Data Scientist with several years of experience in developing AI-driven solutions for a variety of needs. Here, I present some of my recent personal projects.
+### Click on the links below to get more info about the projects:
 
 [![movieRecommendation](images/sitio.png)](https://github.com/eduardomelog/movieRecommendation)
 
